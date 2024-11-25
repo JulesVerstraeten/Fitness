@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------
+Date : 10/4/2024 9:51:48 PM
+
+System.Exception
+Message : speedInterval is 38.4, it must be greater than 5 and smaller than 22
+-----------------------------------------------------------------------------
+Date : 10/4/2024 9:51:48 PM
+
+System.Exception
+Message : sessieNummer is -3, and it must be greater than 0

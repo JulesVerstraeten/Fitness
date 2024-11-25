@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningbl\\runningstatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|solutionrelative:fitnessrunningbl\\runningstatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AB2B0D-17FE-403E-9879-0F8486C56A64}|FitnessRunningConsole\\FitnessRunningConsole.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AB2B0D-17FE-403E-9879-0F8486C56A64}|FitnessRunningConsole\\FitnessRunningConsole.csproj|solutionrelative:fitnessrunningconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningbl\\model\\runningstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|solutionrelative:fitnessrunningbl\\model\\runningstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3827CBE2-2D7C-4CC3-8959-0E339EFFD6A9}|FitnessRunningDL_File\\FitnessRunningDL_File.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningdl_file\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3827CBE2-2D7C-4CC3-8959-0E339EFFD6A9}|FitnessRunningDL_File\\FitnessRunningDL_File.csproj|solutionrelative:fitnessrunningdl_file\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|solutionrelative:fitnessrunningui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningui\\fitnessrunningui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|solutionrelative:fitnessrunningui\\fitnessrunningui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningbl\\model\\interval\\intervalstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|solutionrelative:fitnessrunningbl\\model\\interval\\intervalstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningbl\\interface\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|solutionrelative:fitnessrunningbl\\interface\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5366DCA-7260-44DC-973D-B0558929F815}|FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningdl_sql\\fitnessrunningdl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5366DCA-7260-44DC-973D-B0558929F815}|FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj|solutionrelative:fitnessrunningdl_sql\\fitnessrunningdl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3827CBE2-2D7C-4CC3-8959-0E339EFFD6A9}|FitnessRunningDL_File\\FitnessRunningDL_File.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningdl_file\\fitnessrunningdl_file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3827CBE2-2D7C-4CC3-8959-0E339EFFD6A9}|FitnessRunningDL_File\\FitnessRunningDL_File.csproj|solutionrelative:fitnessrunningdl_file\\fitnessrunningdl_file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AB2B0D-17FE-403E-9879-0F8486C56A64}|FitnessRunningConsole\\FitnessRunningConsole.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningconsole\\fitnessrunningconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2AB2B0D-17FE-403E-9879-0F8486C56A64}|FitnessRunningConsole\\FitnessRunningConsole.csproj|solutionrelative:fitnessrunningconsole\\fitnessrunningconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningbl\\fitnessrunningbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44AC6768-99E8-4967-BC46-405FB845D2DC}|FitnessRunningBL\\FitnessRunningBL.csproj|solutionrelative:fitnessrunningbl\\fitnessrunningbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5366DCA-7260-44DC-973D-B0558929F815}|FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningdl_sql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5366DCA-7260-44DC-973D-B0558929F815}|FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj|solutionrelative:fitnessrunningdl_sql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|c:\\users\\jules\\documents\\hogent\\sem2\\prog_gevorderd_1\\opdrachten\\labo_1\\fitnessrunning\\fitnessrunningui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396E3315-D69C-4799-B228-46E913443117}|FitnessRunningUI\\FitnessRunningUI.csproj|solutionrelative:fitnessrunningui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunningStats.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Model\\RunningStats.cs",
+              "RelativeDocumentMoniker": "FitnessRunningBL\\Model\\RunningStats.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Model\\RunningStats.cs",
+              "RelativeToolTip": "FitnessRunningBL\\Model\\RunningStats.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:55:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunningStatsManager.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\RunningStatsManager.cs",
+              "RelativeDocumentMoniker": "FitnessRunningBL\\RunningStatsManager.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\RunningStatsManager.cs",
+              "RelativeToolTip": "FitnessRunningBL\\RunningStatsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:48:54.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_File\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "FitnessRunningDL_File\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_File\\FileProcessor.cs",
+              "RelativeToolTip": "FitnessRunningDL_File\\FileProcessor.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:48:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FitnessRunningConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningConsole\\FitnessRunningConsole.csproj",
+              "RelativeDocumentMoniker": "FitnessRunningConsole\\FitnessRunningConsole.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningConsole\\FitnessRunningConsole.csproj",
+              "RelativeToolTip": "FitnessRunningConsole\\FitnessRunningConsole.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T08:44:05.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FitnessRunningDL_File.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_File\\FitnessRunningDL_File.csproj",
+              "RelativeDocumentMoniker": "FitnessRunningDL_File\\FitnessRunningDL_File.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_File\\FitnessRunningDL_File.csproj",
+              "RelativeToolTip": "FitnessRunningDL_File\\FitnessRunningDL_File.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T09:47:05.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FitnessRunningDL_SQL.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj",
+              "RelativeDocumentMoniker": "FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj",
+              "RelativeToolTip": "FitnessRunningDL_SQL\\FitnessRunningDL_SQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T08:43:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessRunningUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\MainWindow.xaml",
+              "RelativeToolTip": "FitnessRunningUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T06:47:19.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningConsole\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessRunningConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningConsole\\Program.cs",
+              "RelativeToolTip": "FitnessRunningConsole\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:33:51.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitnessRunningUI.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\FitnessRunningUI.csproj",
+              "RelativeDocumentMoniker": "FitnessRunningUI\\FitnessRunningUI.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\FitnessRunningUI.csproj",
+              "RelativeToolTip": "FitnessRunningUI\\FitnessRunningUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T06:56:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntervalStats.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Model\\Interval\\IntervalStats.cs",
+              "RelativeDocumentMoniker": "FitnessRunningBL\\Model\\Interval\\IntervalStats.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Model\\Interval\\IntervalStats.cs",
+              "RelativeToolTip": "FitnessRunningBL\\Model\\Interval\\IntervalStats.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:06:19.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Interface\\IFileProcessor.cs",
+              "RelativeDocumentMoniker": "FitnessRunningBL\\Interface\\IFileProcessor.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\Interface\\IFileProcessor.cs",
+              "RelativeToolTip": "FitnessRunningBL\\Interface\\IFileProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:36:04.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FitnessRunningBL.csproj",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\FitnessRunningBL.csproj",
+              "RelativeDocumentMoniker": "FitnessRunningBL\\FitnessRunningBL.csproj",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningBL\\FitnessRunningBL.csproj",
+              "RelativeToolTip": "FitnessRunningBL\\FitnessRunningBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T08:34:25.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_SQL\\Class1.cs",
+              "RelativeDocumentMoniker": "FitnessRunningDL_SQL\\Class1.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningDL_SQL\\Class1.cs",
+              "RelativeToolTip": "FitnessRunningDL_SQL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:47:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessRunningUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jules\\Documents\\HoGent\\SEM2\\Prog_Gevorderd_1\\Opdrachten\\Labo_1\\FitnessRunning\\FitnessRunningUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FitnessRunningUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:47:18.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FitnessRunningBL/1.0.0": {
+        "runtime": {
+          "FitnessRunningBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FitnessRunningBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
